@@ -1,0 +1,47 @@
+
+#start {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(250, 128, 114, 0.37);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px rgba(246, 4, 4, 0.31) solid;
+}
+.rowOne {
+    display: flex;
+    justify-content: center;
+}
+
+.rowTwo {
+    display: flex;
+    justify-content: center;
+}
+main {
+    text-align: center;
+}
+
+.colorButton {
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 30%;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#red {
+    background-color: red;
+}
+#yellow {
+    background-color: rgb(238, 241, 9);
+}
+#blue {
+    background-color: rgb(48, 14, 126);
+}
+#green {
+    background-color: rgb(14, 126, 44);
+}
